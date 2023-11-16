@@ -12,3 +12,4 @@
 - Custom `ApiException` for dealing with **domain-based exceptions**
 - **Saves logs** in `charcounter.log` and **creates archives** of them
 - Application uses `Validaton` to strict client's Http-Requests
+- `lombock` is used to make code more clear
