@@ -4,3 +4,7 @@ logging:
     file:
         name: charcounter.log
         path: /
+spring:
+    output:
+        ansi:
+            enabled: DETECT

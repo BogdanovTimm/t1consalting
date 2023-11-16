@@ -1,5 +1,7 @@
 package org.bogdanovtimm.t1consalting.unit.rest;
 
+import java.time.LocalDateTime;
+import java.time.temporal.ChronoUnit;
 import java.util.Comparator;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
@@ -12,6 +14,7 @@ import org.bogdanovtimm.t1consalting.form.CharCounterForm;
 import org.bogdanovtimm.t1consalting.rest.CharCounterRest;
 import org.bogdanovtimm.t1consalting.service.CharCounterService;
 import org.bogdanovtimm.t1consalting.util.UnitTestBase;
+import org.hamcrest.Matchers;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
@@ -66,6 +69,9 @@ public class CharCounterRestTest extends UnitTestBase {
                                               .contentType(MediaType.APPLICATION_JSON)
                                               .content(textBody))
                .andExpect(MockMvcResultMatchers.status().isOk())
+               .andExpect(MockMvcResultMatchers.jsonPath("$.timeStamp").value(Matchers.startsWith(LocalDateTime.now().truncatedTo(ChronoUnit.MINUTES).toString())))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.statusCode").value("200"))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.status").value("OK"))
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isMap())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isNotEmpty())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data.*").value(sortedValues));
@@ -94,6 +100,9 @@ public class CharCounterRestTest extends UnitTestBase {
                                               .contentType(MediaType.APPLICATION_JSON)
                                               .content(textBody))
                .andExpect(MockMvcResultMatchers.status().isOk())
+               .andExpect(MockMvcResultMatchers.jsonPath("$.timeStamp").value(Matchers.startsWith(LocalDateTime.now().truncatedTo(ChronoUnit.MINUTES).toString())))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.statusCode").value("200"))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.status").value("OK"))
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isMap())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isNotEmpty())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data.*").value(sortedValues));
@@ -105,7 +114,7 @@ public class CharCounterRestTest extends UnitTestBase {
         form.setText("HeLlo wOrlD");
         form.setTrimSpaces(true);
         String textBody = "{\"text\": \"HeLlo wOrlD\", \"trimSpaces\": true}";
-         Map<Character, Integer> sortedMap = new LinkedHashMap<>();
+        Map<Character, Integer> sortedMap = new LinkedHashMap<>();
         sortedMap.put('l', 3);
         sortedMap.put('o', 2);
         sortedMap.put('h', 1);
@@ -119,6 +128,9 @@ public class CharCounterRestTest extends UnitTestBase {
                                               .contentType(MediaType.APPLICATION_JSON)
                                               .content(textBody))
                .andExpect(MockMvcResultMatchers.status().isOk())
+               .andExpect(MockMvcResultMatchers.jsonPath("$.timeStamp").value(Matchers.startsWith(LocalDateTime.now().truncatedTo(ChronoUnit.MINUTES).toString())))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.statusCode").value("200"))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.status").value("OK"))
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isMap())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isNotEmpty())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data.*").value(sortedValues));
@@ -147,6 +159,9 @@ public class CharCounterRestTest extends UnitTestBase {
                                               .contentType(MediaType.APPLICATION_JSON)
                                               .content(textBody))
                .andExpect(MockMvcResultMatchers.status().isOk())
+               .andExpect(MockMvcResultMatchers.jsonPath("$.timeStamp").value(Matchers.startsWith(LocalDateTime.now().truncatedTo(ChronoUnit.MINUTES).toString())))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.statusCode").value("200"))
+               .andExpect(MockMvcResultMatchers.jsonPath("$.status").value("OK"))
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isMap())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data").isNotEmpty())
                .andExpect(MockMvcResultMatchers.jsonPath("$.data.*").value(sortedValues));

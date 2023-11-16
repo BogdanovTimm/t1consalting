@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 // [v] Add swagger
 // [ ] Save swagger as PDF
-// [ ] Integration test
+// [v] Integration test
 // [v] Unit test for service
 // [v] Different REST methods (for case sensitive and case insensetive)
 // [ ] Docker compose

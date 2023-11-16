@@ -39,7 +39,7 @@ public class CharCounterRest {
      * @return {@code HttpResponse} with counted characters;
      */
     @PostMapping("/countchars")
-    @Operation(summary = "Counts chars in given non-blank. Options: case-sensitive, trim spaces")
+    @Operation(summary = "Counts chars in given non-blank text. Options: case-sensitive, trim spaces")
     public ResponseEntity<HttpResponse> countChars(
                                                                  @RequestBody
                                                                  @Valid
