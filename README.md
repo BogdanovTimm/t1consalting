@@ -11,5 +11,5 @@
 - Extended and clear **javadoc documentation for every method**
 - Custom `ApiException` for dealing with **domain-based exceptions**
 - **Saves logs** in `charcounter.log` and **creates archives** of them
-- Application uses `Validaton` to strict client's Http-Requests
+- Application uses `Spring Validaton` to strict client's Http-Requests
 - `lombock` is used to make code more clear
