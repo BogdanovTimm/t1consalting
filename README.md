@@ -7,7 +7,8 @@
     - **Trim all white spaces** or not (by default)
 - Both **Unit** and **Integration tests** that covers all possible scenarios
 - Custom `ExceptionHandler` for returning information about client's errors
-- `Swagger` is used both for creating an **offline documentation** in .pdf format and for **online documentation**
+- **Offline API documentation** .pdf format
+- `Swagger` is used for **online documentation**
 - Extended and clear **javadoc documentation for every method**
 - Custom `ApiException` for dealing with **domain-based exceptions**
 - **Saves logs** in `charcounter.log` and **creates archives** of them
