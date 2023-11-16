@@ -1,8 +1,7 @@
 # T1 Consalting
 
-# Pros of this project
+## Pros of this project
 
-Pros:
 - Allows client to add **options**:
   - **Case-insensitive** (by default) or **Case-sensitive**
   - **Trim all white spaces** or not (by default)
