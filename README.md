@@ -13,3 +13,4 @@
 - **Saves logs** in `charcounter.log` and **creates archives** of them
 - `Spring Validaton` is used to strict client's Http-Requests
 - `lombock` is used to make code more clear
+- Cool T1 Consalting logo included B-)
