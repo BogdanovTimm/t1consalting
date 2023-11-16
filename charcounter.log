@@ -1,0 +1,1001 @@
+2023-11-16T00:20:28.229+03:00  INFO 20172 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 20172 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:20:28.234+03:00  INFO 20172 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:20:29.892+03:00  INFO 20172 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:20:29.893+03:00  INFO 20172 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:20:29.894+03:00  INFO 20172 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:20:29.936+03:00  INFO 20172 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.018 seconds (process running for 2.7)
+2023-11-16T00:21:19.140+03:00  INFO 9376 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9376 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:21:19.141+03:00  INFO 9376 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:21:20.833+03:00  INFO 9376 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:21:20.833+03:00  INFO 9376 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:21:20.835+03:00  INFO 9376 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:21:20.876+03:00  INFO 9376 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.044 seconds (process running for 2.71)
+2023-11-16T00:26:25.796+03:00  INFO 5164 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 5164 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:26:25.798+03:00  INFO 5164 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:26:27.463+03:00  INFO 5164 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:26:27.464+03:00  INFO 5164 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:26:27.466+03:00  INFO 5164 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:26:27.505+03:00  INFO 5164 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.024 seconds (process running for 2.689)
+2023-11-16T00:35:44.422+03:00  INFO 14500 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 14500 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:35:44.423+03:00  INFO 14500 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:35:46.192+03:00  INFO 14500 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:35:46.192+03:00  INFO 14500 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:35:46.194+03:00  INFO 14500 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:35:46.235+03:00  INFO 14500 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.119 seconds (process running for 2.826)
+2023-11-16T00:35:46.271+03:00  INFO 14500 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:35:46.271+03:00  INFO 14500 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:35:46.272+03:00  INFO 14500 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:35:46.316+03:00  WARN 14500 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:36:03.427+03:00  INFO 19896 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 19896 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:36:03.428+03:00  INFO 19896 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:36:05.264+03:00  INFO 19896 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:36:05.264+03:00  INFO 19896 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:36:05.266+03:00  INFO 19896 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:36:05.306+03:00  INFO 19896 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.184 seconds (process running for 2.831)
+2023-11-16T00:36:05.346+03:00  INFO 19896 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:36:05.347+03:00  INFO 19896 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:36:05.348+03:00  INFO 19896 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:36:05.392+03:00  WARN 19896 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:36:24.160+03:00  INFO 1356 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 1356 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:36:24.162+03:00  INFO 1356 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:36:25.952+03:00  INFO 1356 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:36:25.952+03:00  INFO 1356 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:36:25.954+03:00  INFO 1356 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:36:25.999+03:00  INFO 1356 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.142 seconds (process running for 2.818)
+2023-11-16T00:36:26.039+03:00  INFO 1356 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:36:26.039+03:00  INFO 1356 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:36:26.040+03:00  INFO 1356 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:36:26.084+03:00  WARN 1356 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:36:51.618+03:00  INFO 9144 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9144 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:36:51.619+03:00  INFO 9144 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:36:53.421+03:00  INFO 9144 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:36:53.422+03:00  INFO 9144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:36:53.423+03:00  INFO 9144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:36:53.468+03:00  INFO 9144 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.152 seconds (process running for 2.823)
+2023-11-16T00:36:53.513+03:00  INFO 9144 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:36:53.513+03:00  INFO 9144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:36:53.514+03:00  INFO 9144 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:36:53.565+03:00  WARN 9144 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:37:44.824+03:00  INFO 13240 --- [main] o.b.t1consalting.ApplicationRunner       : Starting ApplicationRunner using Java 17.0.8.1 with PID 13240 (E:\IT\Java_Education_Projects\t1consalting\t1consalting\target\classes started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:37:44.826+03:00  INFO 13240 --- [main] o.b.t1consalting.ApplicationRunner       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:37:45.647+03:00  INFO 13240 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-16T00:37:45.654+03:00  INFO 13240 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-16T00:37:45.655+03:00  INFO 13240 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-16T00:37:45.749+03:00  INFO 13240 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-16T00:37:45.749+03:00  INFO 13240 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 891 ms
+2023-11-16T00:37:46.219+03:00  INFO 13240 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-16T00:37:46.230+03:00  INFO 13240 --- [main] o.b.t1consalting.ApplicationRunner       : Started ApplicationRunner in 1.745 seconds (process running for 2.02)
+2023-11-16T00:37:50.269+03:00  INFO 13240 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16T00:37:50.269+03:00  INFO 13240 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-16T00:37:50.270+03:00  INFO 13240 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-11-16T00:37:50.364+03:00 ERROR 13240 --- [http-nio-8080-exec-2] o.b.t.e.CharCounterExceptionHandler      : Validation failed for argument [0] in public org.springframework.http.ResponseEntity<org.bogdanovtimm.t1consalting.response.HttpResponse> org.bogdanovtimm.t1consalting.rest.CharCounterRest.countCharactersSensitive(org.bogdanovtimm.t1consalting.form.CharCounterForm): [Field error in object 'charCounterForm' on field 'text': rejected value [null]; codes [NotEmpty.charCounterForm.text,NotEmpty.text,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [charCounterForm.text,text]; arguments []; default message [text]]; default message [Text must not be blank]] 
+2023-11-16T00:37:59.122+03:00  INFO 13240 --- [http-nio-8080-exec-3] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x1a0x010x000x020x160x030x030xbc,0x1e0xf90xcf0xfa0xbeLQ@0xb530xbcz0xe70x9bg0x1d=Z0x0b0x970x15m,0xd40x1dU*@O0x1c ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[na:na]
+
+2023-11-16T00:38:40.257+03:00  INFO 12184 --- [main] o.b.t1consalting.ApplicationRunner       : Starting ApplicationRunner using Java 17.0.8.1 with PID 12184 (E:\IT\Java_Education_Projects\t1consalting\t1consalting\target\classes started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:38:40.259+03:00  INFO 12184 --- [main] o.b.t1consalting.ApplicationRunner       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:38:41.088+03:00  INFO 12184 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-16T00:38:41.095+03:00  INFO 12184 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-16T00:38:41.096+03:00  INFO 12184 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-16T00:38:41.198+03:00  INFO 12184 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-16T00:38:41.199+03:00  INFO 12184 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 909 ms
+2023-11-16T00:38:41.695+03:00  INFO 12184 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-16T00:38:41.703+03:00  INFO 12184 --- [main] o.b.t1consalting.ApplicationRunner       : Started ApplicationRunner in 1.794 seconds (process running for 2.076)
+2023-11-16T00:38:45.169+03:00  INFO 12184 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16T00:38:45.169+03:00  INFO 12184 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-16T00:38:45.170+03:00  INFO 12184 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-11-16T00:38:45.262+03:00 ERROR 12184 --- [http-nio-8080-exec-2] o.b.t.e.CharCounterExceptionHandler      : Validation failed for argument [0] in public org.springframework.http.ResponseEntity<org.bogdanovtimm.t1consalting.response.HttpResponse> org.bogdanovtimm.t1consalting.rest.CharCounterRest.countCharactersSensitive(org.bogdanovtimm.t1consalting.form.CharCounterForm): [Field error in object 'charCounterForm' on field 'text': rejected value [null]; codes [NotEmpty.charCounterForm.text,NotEmpty.text,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [charCounterForm.text,text]; arguments []; default message [text]]; default message [Text must not be blank]] 
+2023-11-16T00:38:58.245+03:00  INFO 2696 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 2696 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:38:58.246+03:00  INFO 2696 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:39:00.067+03:00  INFO 2696 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:39:00.067+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:39:00.068+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:39:00.106+03:00  INFO 2696 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.165 seconds (process running for 2.833)
+2023-11-16T00:39:00.149+03:00  INFO 2696 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:39:00.149+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:39:00.150+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:39:00.195+03:00  WARN 2696 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:40:03.989+03:00  INFO 15012 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 15012 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:40:03.991+03:00  INFO 15012 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:40:05.778+03:00  INFO 15012 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:05.779+03:00  INFO 15012 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:05.780+03:00  INFO 15012 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:40:05.816+03:00  INFO 15012 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.127 seconds (process running for 2.801)
+2023-11-16T00:40:05.857+03:00  INFO 15012 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:05.857+03:00  INFO 15012 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:05.858+03:00  INFO 15012 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:40:05.901+03:00  WARN 15012 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:40:19.559+03:00  INFO 14944 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 14944 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:40:19.560+03:00  INFO 14944 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:40:21.304+03:00  INFO 14944 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:21.304+03:00  INFO 14944 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:21.306+03:00  INFO 14944 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:40:21.346+03:00  INFO 14944 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.088 seconds (process running for 2.77)
+2023-11-16T00:40:21.393+03:00  INFO 14944 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:21.393+03:00  INFO 14944 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:21.394+03:00  INFO 14944 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:40:21.433+03:00  WARN 14944 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:40:37.648+03:00  INFO 18004 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 18004 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:40:37.650+03:00  INFO 18004 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:40:39.535+03:00  INFO 18004 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:39.535+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:39.537+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:40:39.573+03:00  INFO 18004 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.225 seconds (process running for 2.882)
+2023-11-16T00:40:39.624+03:00  INFO 18004 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:39.624+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:39.625+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:40:39.682+03:00  WARN 18004 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:40:55.199+03:00  INFO 12512 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 12512 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:40:55.200+03:00  INFO 12512 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:40:57.037+03:00  INFO 12512 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:57.037+03:00  INFO 12512 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:57.039+03:00  INFO 12512 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:40:57.085+03:00  INFO 12512 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.186 seconds (process running for 2.856)
+2023-11-16T00:40:57.122+03:00  INFO 12512 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:40:57.123+03:00  INFO 12512 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:40:57.123+03:00  INFO 12512 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T00:40:57.191+03:00  WARN 12512 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T00:42:47.784+03:00  INFO 7044 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7044 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:42:47.785+03:00  INFO 7044 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:42:49.636+03:00  INFO 7044 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:42:49.636+03:00  INFO 7044 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:42:49.639+03:00  INFO 7044 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:42:49.682+03:00  INFO 7044 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.205 seconds (process running for 2.883)
+2023-11-16T00:44:26.117+03:00  INFO 17460 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 17460 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:44:26.119+03:00  INFO 17460 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:44:27.886+03:00  INFO 17460 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:44:27.886+03:00  INFO 17460 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:44:27.888+03:00  INFO 17460 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:44:27.926+03:00  INFO 17460 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.109 seconds (process running for 2.767)
+2023-11-16T00:45:31.598+03:00  INFO 5156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 5156 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:45:31.599+03:00  INFO 5156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:45:33.383+03:00  INFO 5156 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:45:33.384+03:00  INFO 5156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:45:33.385+03:00  INFO 5156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:45:33.420+03:00  INFO 5156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.123 seconds (process running for 2.795)
+2023-11-16T00:45:46.594+03:00  INFO 7444 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7444 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:45:46.595+03:00  INFO 7444 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:45:48.415+03:00  INFO 7444 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:45:48.415+03:00  INFO 7444 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:45:48.416+03:00  INFO 7444 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T00:45:48.463+03:00  INFO 7444 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.169 seconds (process running for 2.814)
+2023-11-16T00:57:23.422+03:00  INFO 2380 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 2380 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:57:23.423+03:00  INFO 2380 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:57:25.127+03:00  INFO 2380 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:57:25.127+03:00  INFO 2380 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:57:25.129+03:00  INFO 2380 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:57:25.166+03:00  INFO 2380 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.047 seconds (process running for 2.716)
+2023-11-16T00:57:25.378+03:00 ERROR 2380 --- [main] o.b.t.e.CharCounterExceptionHandler      : Validation failed for argument [0] in public org.springframework.http.ResponseEntity<org.bogdanovtimm.t1consalting.response.HttpResponse> org.bogdanovtimm.t1consalting.rest.CharCounterRest.countCharactersSensitive(org.bogdanovtimm.t1consalting.form.CharCounterForm): [Field error in object 'charCounterForm' on field 'text': rejected value []; codes [NotEmpty.charCounterForm.text,NotEmpty.text,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [charCounterForm.text,text]; arguments []; default message [text]]; default message [Text must not be blank]] 
+2023-11-16T00:59:56.845+03:00  INFO 20156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 20156 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T00:59:56.846+03:00  INFO 20156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T00:59:58.524+03:00  INFO 20156 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T00:59:58.525+03:00  INFO 20156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T00:59:58.527+03:00  INFO 20156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T00:59:58.563+03:00  INFO 20156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.025 seconds (process running for 2.687)
+2023-11-16T01:02:41.630+03:00  INFO 7632 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7632 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:02:41.631+03:00  INFO 7632 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:02:43.439+03:00  INFO 7632 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:02:43.439+03:00  INFO 7632 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:02:43.441+03:00  INFO 7632 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:02:43.475+03:00  INFO 7632 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.142 seconds (process running for 2.82)
+2023-11-16T01:09:24.637+03:00  INFO 18968 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 18968 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:09:24.639+03:00  INFO 18968 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:09:26.402+03:00  INFO 18968 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:09:26.403+03:00  INFO 18968 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:09:26.404+03:00  INFO 18968 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:09:26.436+03:00  INFO 18968 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.102 seconds (process running for 2.766)
+2023-11-16T01:09:26.494+03:00  INFO 18968 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:09:26.494+03:00  INFO 18968 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:09:26.495+03:00  INFO 18968 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:09:26.536+03:00  WARN 18968 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T01:10:10.890+03:00  INFO 9388 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9388 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:10:10.892+03:00  INFO 9388 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:10:12.674+03:00  INFO 9388 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:10:12.674+03:00  INFO 9388 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:10:12.676+03:00  INFO 9388 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T01:10:12.722+03:00  INFO 9388 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.141 seconds (process running for 2.818)
+2023-11-16T01:10:12.778+03:00  INFO 9388 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:10:12.778+03:00  INFO 9388 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:10:12.779+03:00  INFO 9388 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:12:40.884+03:00  INFO 2696 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 2696 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:12:40.885+03:00  INFO 2696 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:12:42.678+03:00  INFO 2696 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:12:42.679+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:12:42.681+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T01:12:42.722+03:00  INFO 2696 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.134 seconds (process running for 2.791)
+2023-11-16T01:12:42.808+03:00  INFO 2696 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:12:42.808+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:12:42.809+03:00  INFO 2696 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:12:42.997+03:00 ERROR 2696 --- [main] o.b.t.e.CharCounterExceptionHandler      : Cannot invoke "org.bogdanovtimm.t1consalting.service.CharCounterService.countChars(org.bogdanovtimm.t1consalting.form.CharCounterForm)" because "this.charCounterService" is null
+2023-11-16T01:13:13.555+03:00  INFO 13368 --- [main] o.b.t1consalting.ApplicationRunner       : Starting ApplicationRunner using Java 17.0.8.1 with PID 13368 (E:\IT\Java_Education_Projects\t1consalting\t1consalting\target\classes started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:13:13.556+03:00  INFO 13368 --- [main] o.b.t1consalting.ApplicationRunner       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:13:14.340+03:00  INFO 13368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-16T01:13:14.346+03:00  INFO 13368 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-16T01:13:14.347+03:00  INFO 13368 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-16T01:13:14.435+03:00  INFO 13368 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-16T01:13:14.435+03:00  INFO 13368 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 848 ms
+2023-11-16T01:13:14.838+03:00  INFO 13368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-16T01:13:14.849+03:00  INFO 13368 --- [main] o.b.t1consalting.ApplicationRunner       : Started ApplicationRunner in 1.636 seconds (process running for 1.911)
+2023-11-16T01:13:19.446+03:00  INFO 13368 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16T01:13:19.447+03:00  INFO 13368 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-16T01:13:19.448+03:00  INFO 13368 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-11-16T01:13:19.535+03:00  INFO 13368 --- [http-nio-8080-exec-2] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T01:13:19.535+03:00  INFO 13368 --- [http-nio-8080-exec-2] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T01:13:19.537+03:00 ERROR 13368 --- [http-nio-8080-exec-2] o.b.t.e.CharCounterExceptionHandler      : After removing spaces there is nothing to count
+2023-11-16T01:13:28.452+03:00  INFO 13368 --- [http-nio-8080-exec-3] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T01:13:28.453+03:00  INFO 13368 --- [http-nio-8080-exec-3] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T01:13:28.453+03:00 ERROR 13368 --- [http-nio-8080-exec-3] o.b.t.e.CharCounterExceptionHandler      : After removing spaces there is nothing to count
+2023-11-16T01:16:10.315+03:00  INFO 14632 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 14632 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:16:10.316+03:00  INFO 14632 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:16:12.093+03:00  INFO 14632 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:16:12.094+03:00  INFO 14632 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:16:12.095+03:00  INFO 14632 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:16:12.135+03:00  INFO 14632 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.131 seconds (process running for 2.794)
+2023-11-16T01:16:12.214+03:00  INFO 14632 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:16:12.214+03:00  INFO 14632 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:16:12.214+03:00  INFO 14632 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T01:16:12.439+03:00 ERROR 14632 --- [main] o.b.t.e.CharCounterExceptionHandler      : Cannot invoke "org.bogdanovtimm.t1consalting.service.CharCounterService.countChars(org.bogdanovtimm.t1consalting.form.CharCounterForm)" because "this.charCounterService" is null
+2023-11-16T01:16:23.492+03:00  INFO 8512 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 8512 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:16:23.493+03:00  INFO 8512 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:16:25.237+03:00  INFO 8512 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:16:25.237+03:00  INFO 8512 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:16:25.239+03:00  INFO 8512 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T01:16:25.278+03:00  INFO 8512 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.089 seconds (process running for 2.76)
+2023-11-16T01:17:59.111+03:00  INFO 13368 --- [http-nio-8080-exec-5] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x02:0x010x000x0260x030x03d|0xd60x1b0x0a0x0640xe7j0xbb0xec0x9a=0xf8L{0xb30xe1uz`0x1b0x8d0xa60x89=0xc10xfb0xa4W0xc7R ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[na:na]
+
+2023-11-16T01:28:34.538+03:00  INFO 12024 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 17.0.8.1 with PID 12024 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:28:34.540+03:00  INFO 12024 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:28:36.232+03:00  INFO 12024 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:28:36.232+03:00  INFO 12024 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:28:36.233+03:00  INFO 12024 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:28:36.270+03:00  INFO 12024 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 2.033 seconds (process running for 2.713)
+2023-11-16T01:30:17.746+03:00  INFO 7648 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7648 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:30:17.747+03:00  INFO 7648 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:30:19.498+03:00  INFO 7648 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:30:19.499+03:00  INFO 7648 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:30:19.500+03:00  INFO 7648 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:30:19.546+03:00  INFO 7648 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.108 seconds (process running for 2.76)
+2023-11-16T01:30:33.507+03:00  INFO 18876 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 18876 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:30:33.508+03:00  INFO 18876 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:30:35.290+03:00  INFO 18876 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:30:35.290+03:00  INFO 18876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:30:35.292+03:00  INFO 18876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:30:35.340+03:00  INFO 18876 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.133 seconds (process running for 2.784)
+2023-11-16T01:31:08.379+03:00  INFO 13492 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 17.0.8.1 with PID 13492 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:31:08.381+03:00  INFO 13492 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:31:10.085+03:00  INFO 13492 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:31:10.085+03:00  INFO 13492 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:31:10.086+03:00  INFO 13492 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:31:10.122+03:00  INFO 13492 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 2.037 seconds (process running for 2.693)
+2023-11-16T01:32:52.283+03:00  INFO 19812 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 19812 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:32:52.285+03:00  INFO 19812 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:32:54.019+03:00  INFO 19812 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:32:54.020+03:00  INFO 19812 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:32:54.022+03:00  INFO 19812 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T01:32:54.058+03:00  INFO 19812 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.073 seconds (process running for 2.721)
+2023-11-16T01:34:36.894+03:00  INFO 9308 --- [main] o.b.t1consalting.ApplicationRunner       : Starting ApplicationRunner using Java 17.0.8.1 with PID 9308 (E:\IT\Java_Education_Projects\t1consalting\t1consalting\target\classes started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:34:36.896+03:00  INFO 9308 --- [main] o.b.t1consalting.ApplicationRunner       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:34:37.721+03:00  INFO 9308 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-16T01:34:37.731+03:00  INFO 9308 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-16T01:34:37.731+03:00  INFO 9308 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-16T01:34:37.835+03:00  INFO 9308 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-16T01:34:37.835+03:00  INFO 9308 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 909 ms
+2023-11-16T01:34:38.347+03:00  INFO 9308 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-16T01:34:38.357+03:00  INFO 9308 --- [main] o.b.t1consalting.ApplicationRunner       : Started ApplicationRunner in 1.811 seconds (process running for 2.082)
+2023-11-16T01:34:44.137+03:00  INFO 9308 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16T01:34:44.137+03:00  INFO 9308 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-16T01:34:44.138+03:00  INFO 9308 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-11-16T01:34:44.222+03:00  INFO 9308 --- [http-nio-8080-exec-2] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T01:34:44.222+03:00  INFO 9308 --- [http-nio-8080-exec-2] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T01:34:44.223+03:00  INFO 9308 --- [http-nio-8080-exec-2] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T01:34:44.224+03:00  INFO 9308 --- [http-nio-8080-exec-2] o.b.t.service.CharCounterServiceImpl     : {a=2, s=2, d=2, f=2, h=2, k=1, l=1}
+2023-11-16T01:35:06.382+03:00  INFO 17440 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 17440 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:35:06.383+03:00  INFO 17440 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:35:08.133+03:00  INFO 17440 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:35:08.133+03:00  INFO 17440 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:35:08.134+03:00  INFO 17440 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:35:08.178+03:00  INFO 17440 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.1 seconds (process running for 2.748)
+2023-11-16T01:35:27.019+03:00  INFO 2504 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 2504 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:35:27.020+03:00  INFO 2504 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:35:28.784+03:00  INFO 2504 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:35:28.784+03:00  INFO 2504 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:35:28.786+03:00  INFO 2504 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T01:35:28.831+03:00  INFO 2504 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.115 seconds (process running for 2.763)
+2023-11-16T01:37:59.088+03:00  INFO 9308 --- [http-nio-8080-exec-4] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030xe70xa10x880x0d0xa80x86/0xb6%n0xd0^0x860x850xe80xa50xf50x060xff0xf30xd110x120xfa0xfb!0x060x840xfb0xfb0x9e) ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.15.jar:10.1.15]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[na:na]
+
+2023-11-16T01:43:11.251+03:00  INFO 4524 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 4524 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:43:11.252+03:00  INFO 4524 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:43:13.013+03:00  INFO 4524 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:43:13.014+03:00  INFO 4524 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:43:13.016+03:00  INFO 4524 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T01:43:13.053+03:00  INFO 4524 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.105 seconds (process running for 2.754)
+2023-11-16T01:45:51.512+03:00  INFO 3332 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 3332 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:45:51.514+03:00  INFO 3332 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:45:53.278+03:00  INFO 3332 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:45:53.279+03:00  INFO 3332 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:45:53.281+03:00  INFO 3332 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T01:45:53.316+03:00  INFO 3332 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.121 seconds (process running for 2.779)
+2023-11-16T01:47:28.925+03:00  INFO 9484 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 20.0.2 with PID 9484 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:47:28.926+03:00  INFO 9484 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:47:30.863+03:00  INFO 9484 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:47:30.863+03:00  INFO 9484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:47:30.865+03:00  INFO 9484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T01:47:30.900+03:00  INFO 9484 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.273 seconds (process running for 2.959)
+2023-11-16T01:47:43.176+03:00  INFO 17140 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 20.0.2 with PID 17140 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:47:43.177+03:00  INFO 17140 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:47:44.966+03:00  INFO 17140 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:47:44.966+03:00  INFO 17140 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:47:44.967+03:00  INFO 17140 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:47:44.998+03:00  INFO 17140 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.103 seconds (process running for 2.71)
+2023-11-16T01:48:29.604+03:00  INFO 8256 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 20.0.2 with PID 8256 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:48:29.605+03:00  INFO 8256 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:48:30.955+03:00  INFO 8256 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:48:30.955+03:00  INFO 8256 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:48:30.956+03:00  INFO 8256 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T01:48:30.980+03:00  INFO 8256 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 1.712 seconds (process running for 2.636)
+2023-11-16T01:48:36.133+03:00  INFO 19560 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 20.0.2 with PID 19560 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:48:36.134+03:00  INFO 19560 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:48:37.783+03:00  INFO 19560 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:48:37.783+03:00  INFO 19560 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:48:37.784+03:00  INFO 19560 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:48:37.827+03:00  INFO 19560 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 1.975 seconds (process running for 2.576)
+2023-11-16T01:49:19.243+03:00  INFO 11592 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 20.0.2 with PID 11592 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:49:19.245+03:00  INFO 11592 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:49:21.036+03:00  INFO 11592 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:49:21.036+03:00  INFO 11592 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:49:21.037+03:00  INFO 11592 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:49:21.067+03:00  INFO 11592 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.108 seconds (process running for 2.708)
+2023-11-16T01:52:35.849+03:00  INFO 10964 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 20.0.2 with PID 10964 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:52:35.850+03:00  INFO 10964 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:52:37.615+03:00  INFO 10964 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:52:37.615+03:00  INFO 10964 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:52:37.617+03:00  INFO 10964 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:52:37.657+03:00  INFO 10964 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.091 seconds (process running for 2.705)
+2023-11-16T01:53:41.838+03:00  INFO 12384 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 20.0.2 with PID 12384 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:53:41.839+03:00  INFO 12384 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:53:43.479+03:00  INFO 12384 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:53:43.479+03:00  INFO 12384 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:53:43.480+03:00  INFO 12384 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:53:43.527+03:00  INFO 12384 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 1.979 seconds (process running for 2.58)
+2023-11-16T01:54:40.719+03:00  INFO 15456 --- [main] o.b.t1consalting.ApplicationRunner       : Starting ApplicationRunner using Java 20.0.2 with PID 15456 (E:\IT\Java_Education_Projects\t1consalting\t1consalting\target\classes started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:54:40.720+03:00  INFO 15456 --- [main] o.b.t1consalting.ApplicationRunner       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:54:41.458+03:00  INFO 15456 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-16T01:54:41.465+03:00  INFO 15456 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-16T01:54:41.466+03:00  INFO 15456 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-16T01:54:41.531+03:00  INFO 15456 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-16T01:54:41.531+03:00  INFO 15456 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 776 ms
+2023-11-16T01:54:41.891+03:00  INFO 15456 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-16T01:54:41.898+03:00  INFO 15456 --- [main] o.b.t1consalting.ApplicationRunner       : Started ApplicationRunner in 1.508 seconds (process running for 1.755)
+2023-11-16T01:56:54.259+03:00  INFO 9760 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9760 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T01:56:54.260+03:00  INFO 9760 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T01:56:56.056+03:00  INFO 9760 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T01:56:56.057+03:00  INFO 9760 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T01:56:56.058+03:00  INFO 9760 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T01:56:56.100+03:00  INFO 9760 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.142 seconds (process running for 2.786)
+2023-11-16T03:02:20.301+03:00  INFO 9236 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9236 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:02:20.302+03:00  INFO 9236 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:02:22.066+03:00  INFO 9236 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:02:22.067+03:00  INFO 9236 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:02:22.069+03:00  INFO 9236 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:02:22.105+03:00  INFO 9236 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.11 seconds (process running for 2.871)
+2023-11-16T03:03:13.437+03:00  INFO 16884 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 17.0.8.1 with PID 16884 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:03:13.438+03:00  INFO 16884 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:03:15.152+03:00  INFO 16884 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:03:15.152+03:00  INFO 16884 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:03:15.154+03:00  INFO 16884 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:03:15.201+03:00  INFO 16884 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 2.073 seconds (process running for 2.713)
+2023-11-16T03:03:31.836+03:00  INFO 14900 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 14900 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:03:31.837+03:00  INFO 14900 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:03:33.573+03:00  INFO 14900 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:03:33.573+03:00  INFO 14900 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:03:33.575+03:00  INFO 14900 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:03:33.610+03:00  INFO 14900 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.08 seconds (process running for 2.73)
+2023-11-16T03:09:18.253+03:00  INFO 17832 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 17832 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:09:18.255+03:00  INFO 17832 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:09:19.997+03:00  INFO 17832 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:09:19.997+03:00  INFO 17832 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:09:19.998+03:00  INFO 17832 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:09:20.044+03:00  INFO 17832 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.107 seconds (process running for 2.752)
+2023-11-16T03:10:07.022+03:00  INFO 7068 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7068 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:10:07.023+03:00  INFO 7068 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:10:08.764+03:00  INFO 7068 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:10:08.764+03:00  INFO 7068 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:10:08.766+03:00  INFO 7068 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:10:08.797+03:00  INFO 7068 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.077 seconds (process running for 2.727)
+2023-11-16T03:12:50.249+03:00  INFO 11368 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 11368 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:12:50.251+03:00  INFO 11368 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:12:52.027+03:00  INFO 11368 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:12:52.028+03:00  INFO 11368 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:12:52.029+03:00  INFO 11368 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:12:52.086+03:00  INFO 11368 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.141 seconds (process running for 2.794)
+2023-11-16T03:13:14.700+03:00  INFO 6272 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 6272 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:13:14.701+03:00  INFO 6272 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:13:16.465+03:00  INFO 6272 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:13:16.465+03:00  INFO 6272 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:13:16.466+03:00  INFO 6272 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:13:16.512+03:00  INFO 6272 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.12 seconds (process running for 2.772)
+2023-11-16T03:14:03.985+03:00  INFO 6436 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 6436 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:14:03.987+03:00  INFO 6436 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:14:05.753+03:00  INFO 6436 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:14:05.754+03:00  INFO 6436 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:14:05.755+03:00  INFO 6436 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:14:05.792+03:00  INFO 6436 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.105 seconds (process running for 2.762)
+2023-11-16T03:15:22.207+03:00  INFO 4960 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 4960 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:15:22.209+03:00  INFO 4960 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:15:23.982+03:00  INFO 4960 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:15:23.983+03:00  INFO 4960 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:15:23.985+03:00  INFO 4960 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:15:24.030+03:00  INFO 4960 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.122 seconds (process running for 2.78)
+2023-11-16T03:16:43.468+03:00  INFO 17668 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 17668 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:16:43.469+03:00  INFO 17668 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:16:45.236+03:00  INFO 17668 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:16:45.237+03:00  INFO 17668 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:16:45.238+03:00  INFO 17668 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:16:45.283+03:00  INFO 17668 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.118 seconds (process running for 2.761)
+2023-11-16T03:18:03.342+03:00  INFO 11676 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 11676 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:18:03.344+03:00  INFO 11676 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:18:05.146+03:00  INFO 11676 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:18:05.146+03:00  INFO 11676 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:18:05.148+03:00  INFO 11676 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:18:05.192+03:00  INFO 11676 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.152 seconds (process running for 2.809)
+2023-11-16T03:18:20.432+03:00  INFO 8288 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 8288 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:18:20.433+03:00  INFO 8288 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:18:22.189+03:00  INFO 8288 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:18:22.190+03:00  INFO 8288 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:18:22.191+03:00  INFO 8288 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:18:22.232+03:00  INFO 8288 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.106 seconds (process running for 2.768)
+2023-11-16T03:19:48.208+03:00  INFO 1336 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 1336 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:19:48.209+03:00  INFO 1336 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:19:49.952+03:00  INFO 1336 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:19:49.953+03:00  INFO 1336 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:19:49.954+03:00  INFO 1336 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:19:50.001+03:00  INFO 1336 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.095 seconds (process running for 2.763)
+2023-11-16T03:20:10.758+03:00  INFO 17764 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 17764 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:20:10.759+03:00  INFO 17764 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:20:12.522+03:00  INFO 17764 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:20:12.523+03:00  INFO 17764 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:20:12.525+03:00  INFO 17764 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:20:12.561+03:00  INFO 17764 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.105 seconds (process running for 2.775)
+2023-11-16T03:20:19.504+03:00  INFO 10392 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 10392 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:20:19.505+03:00  INFO 10392 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:20:21.209+03:00  INFO 10392 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:20:21.209+03:00  INFO 10392 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:20:21.211+03:00  INFO 10392 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:20:21.252+03:00  INFO 10392 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.062 seconds (process running for 2.698)
+2023-11-16T03:20:49.816+03:00  INFO 15692 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 15692 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:20:49.817+03:00  INFO 15692 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:20:51.603+03:00  INFO 15692 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:20:51.604+03:00  INFO 15692 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:20:51.605+03:00  INFO 15692 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:20:51.640+03:00  INFO 15692 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.143 seconds (process running for 2.802)
+2023-11-16T03:21:36.928+03:00  INFO 13288 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 13288 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:21:36.929+03:00  INFO 13288 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:21:38.686+03:00  INFO 13288 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:21:38.686+03:00  INFO 13288 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:21:38.688+03:00  INFO 13288 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:21:38.729+03:00  INFO 13288 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.105 seconds (process running for 2.787)
+2023-11-16T03:21:51.265+03:00  INFO 16284 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 16284 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:21:51.266+03:00  INFO 16284 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:21:53.054+03:00  INFO 16284 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:21:53.055+03:00  INFO 16284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:21:53.057+03:00  INFO 16284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:21:53.093+03:00  INFO 16284 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.125 seconds (process running for 2.781)
+2023-11-16T03:22:14.434+03:00  INFO 2272 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 17.0.8.1 with PID 2272 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:22:14.435+03:00  INFO 2272 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:22:16.165+03:00  INFO 2272 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:22:16.165+03:00  INFO 2272 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:22:16.167+03:00  INFO 2272 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:22:16.203+03:00  INFO 2272 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 2.08 seconds (process running for 2.739)
+2023-11-16T03:25:38.287+03:00  INFO 11780 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 11780 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:25:38.288+03:00  INFO 11780 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:25:40.067+03:00  INFO 11780 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:25:40.067+03:00  INFO 11780 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:25:40.069+03:00  INFO 11780 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:25:40.105+03:00  INFO 11780 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.13 seconds (process running for 2.783)
+2023-11-16T03:25:40.167+03:00  INFO 11780 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:25:40.168+03:00  INFO 11780 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:25:40.168+03:00  INFO 11780 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:25:40.205+03:00  WARN 11780 --- [main] o.s.web.servlet.PageNotFound             : No mapping for POST /api/v1/countchars
+2023-11-16T03:26:17.580+03:00  INFO 19304 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 19304 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:26:17.581+03:00  INFO 19304 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:26:19.383+03:00  INFO 19304 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:26:19.383+03:00  INFO 19304 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:26:19.385+03:00  INFO 19304 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:26:19.422+03:00  INFO 19304 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.148 seconds (process running for 2.823)
+2023-11-16T03:26:19.507+03:00  INFO 19304 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:26:19.507+03:00  INFO 19304 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:26:19.508+03:00  INFO 19304 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:26:19.700+03:00 ERROR 19304 --- [main] o.b.t.e.CharCounterExceptionHandler      : Validation failed for argument [0] in public org.springframework.http.ResponseEntity<org.bogdanovtimm.t1consalting.response.HttpResponse> org.bogdanovtimm.t1consalting.rest.CharCounterRest.countChars(org.bogdanovtimm.t1consalting.form.CharCounterForm): [Field error in object 'charCounterForm' on field 'text': rejected value []; codes [NotEmpty.charCounterForm.text,NotEmpty.text,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [charCounterForm.text,text]; arguments []; default message [text]]; default message [Text must not be blank]] 
+2023-11-16T03:31:14.188+03:00  INFO 14576 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 14576 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:31:14.189+03:00  INFO 14576 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:31:15.920+03:00  INFO 14576 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:31:15.920+03:00  INFO 14576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:31:15.922+03:00  INFO 14576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:31:15.968+03:00  INFO 14576 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.082 seconds (process running for 2.744)
+2023-11-16T03:31:55.446+03:00  INFO 14876 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 14876 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:31:55.447+03:00  INFO 14876 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:31:57.242+03:00  INFO 14876 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:31:57.242+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:31:57.244+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:31:57.289+03:00  INFO 14876 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.142 seconds (process running for 2.792)
+2023-11-16T03:31:57.347+03:00  INFO 14876 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:31:57.347+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:31:57.348+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:31:57.357+03:00  INFO 14876 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:31:57.358+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:31:57.358+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:31:57.550+03:00 ERROR 14876 --- [main] o.b.t.e.CharCounterExceptionHandler      : Validation failed for argument [0] in public org.springframework.http.ResponseEntity<org.bogdanovtimm.t1consalting.response.HttpResponse> org.bogdanovtimm.t1consalting.rest.CharCounterRest.countChars(org.bogdanovtimm.t1consalting.form.CharCounterForm): [Field error in object 'charCounterForm' on field 'text': rejected value []; codes [NotEmpty.charCounterForm.text,NotEmpty.text,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [charCounterForm.text,text]; arguments []; default message [text]]; default message [Text must not be blank]] 
+2023-11-16T03:31:57.590+03:00  INFO 14876 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:31:57.590+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:31:57.590+03:00  INFO 14876 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:32:07.012+03:00  INFO 14484 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 14484 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:32:07.013+03:00  INFO 14484 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:32:08.817+03:00  INFO 14484 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:32:08.817+03:00  INFO 14484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:32:08.819+03:00  INFO 14484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:32:08.856+03:00  INFO 14484 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.15 seconds (process running for 2.812)
+2023-11-16T03:32:08.905+03:00  INFO 14484 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:32:08.905+03:00  INFO 14484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:32:08.905+03:00  INFO 14484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:32:09.071+03:00 ERROR 14484 --- [main] o.b.t.e.CharCounterExceptionHandler      : Validation failed for argument [0] in public org.springframework.http.ResponseEntity<org.bogdanovtimm.t1consalting.response.HttpResponse> org.bogdanovtimm.t1consalting.rest.CharCounterRest.countChars(org.bogdanovtimm.t1consalting.form.CharCounterForm): [Field error in object 'charCounterForm' on field 'text': rejected value []; codes [NotEmpty.charCounterForm.text,NotEmpty.text,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [charCounterForm.text,text]; arguments []; default message [text]]; default message [Text must not be blank]] 
+2023-11-16T03:32:09.113+03:00  INFO 14484 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:32:09.113+03:00  INFO 14484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:32:09.113+03:00  INFO 14484 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:35:04.484+03:00  INFO 6716 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Starting CharCounterExceptionHandlerTest using Java 17.0.8.1 with PID 6716 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:35:04.486+03:00  INFO 6716 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:35:06.411+03:00  INFO 6716 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:35:06.411+03:00  INFO 6716 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:35:06.413+03:00  INFO 6716 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:35:06.457+03:00  INFO 6716 --- [main] .b.t.u.r.CharCounterExceptionHandlerTest : Started CharCounterExceptionHandlerTest in 2.274 seconds (process running for 2.951)
+2023-11-16T03:35:06.512+03:00  INFO 6716 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:35:06.513+03:00  INFO 6716 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:35:06.513+03:00  INFO 6716 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:35:06.727+03:00 ERROR 6716 --- [main] o.b.t.e.CharCounterExceptionHandler      : 
+2023-11-16T03:35:06.773+03:00  INFO 6716 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:35:06.773+03:00  INFO 6716 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:35:06.773+03:00  INFO 6716 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:35:06.787+03:00 ERROR 6716 --- [main] o.b.t.e.CharCounterExceptionHandler      : Validation failed for argument [0] in public org.springframework.http.ResponseEntity<org.bogdanovtimm.t1consalting.response.HttpResponse> org.bogdanovtimm.t1consalting.rest.CharCounterRest.countChars(org.bogdanovtimm.t1consalting.form.CharCounterForm): [Field error in object 'charCounterForm' on field 'text': rejected value []; codes [NotEmpty.charCounterForm.text,NotEmpty.text,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [charCounterForm.text,text]; arguments []; default message [text]]; default message [Text must not be blank]] 
+2023-11-16T03:37:44.018+03:00  INFO 3856 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 3856 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:37:44.019+03:00  INFO 3856 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:37:45.780+03:00  INFO 3856 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:37:45.780+03:00  INFO 3856 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:37:45.782+03:00  INFO 3856 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:37:45.830+03:00  INFO 3856 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.108 seconds (process running for 2.771)
+2023-11-16T03:37:45.890+03:00  INFO 3856 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:37:45.891+03:00  INFO 3856 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:37:45.891+03:00  INFO 3856 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:38:38.372+03:00  INFO 3476 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 3476 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:38:38.374+03:00  INFO 3476 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:38:40.181+03:00  INFO 3476 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:38:40.181+03:00  INFO 3476 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:38:40.183+03:00  INFO 3476 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:38:40.225+03:00  INFO 3476 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.144 seconds (process running for 2.804)
+2023-11-16T03:38:40.286+03:00  INFO 3476 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:38:40.286+03:00  INFO 3476 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:38:40.286+03:00  INFO 3476 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:39:57.975+03:00  INFO 2308 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 2308 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:39:57.976+03:00  INFO 2308 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:39:59.833+03:00  INFO 2308 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:39:59.834+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:39:59.835+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:39:59.873+03:00  INFO 2308 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.197 seconds (process running for 2.869)
+2023-11-16T03:39:59.934+03:00  INFO 2308 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:39:59.935+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:39:59.936+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:40:20.489+03:00  INFO 17116 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 17116 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:40:20.490+03:00  INFO 17116 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:40:22.266+03:00  INFO 17116 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:40:22.267+03:00  INFO 17116 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:40:22.268+03:00  INFO 17116 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:40:22.305+03:00  INFO 17116 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.11 seconds (process running for 2.765)
+2023-11-16T03:40:22.372+03:00  INFO 17116 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:40:22.373+03:00  INFO 17116 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:40:22.373+03:00  INFO 17116 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:41:17.477+03:00  INFO 11996 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 11996 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:41:17.478+03:00  INFO 11996 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:41:19.271+03:00  INFO 11996 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:41:19.272+03:00  INFO 11996 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:41:19.274+03:00  INFO 11996 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:41:19.323+03:00  INFO 11996 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.143 seconds (process running for 2.821)
+2023-11-16T03:41:19.383+03:00  INFO 11996 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:41:19.383+03:00  INFO 11996 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:41:19.384+03:00  INFO 11996 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:41:36.279+03:00  INFO 21264 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 21264 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:41:36.280+03:00  INFO 21264 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:41:38.069+03:00  INFO 21264 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:41:38.070+03:00  INFO 21264 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:41:38.071+03:00  INFO 21264 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:41:38.112+03:00  INFO 21264 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.143 seconds (process running for 2.825)
+2023-11-16T03:41:38.171+03:00  INFO 21264 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:41:38.171+03:00  INFO 21264 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:41:38.172+03:00  INFO 21264 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:42:15.266+03:00  INFO 9364 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9364 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:42:15.267+03:00  INFO 9364 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:42:17.089+03:00  INFO 9364 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:42:17.089+03:00  INFO 9364 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:42:17.091+03:00  INFO 9364 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:42:17.128+03:00  INFO 9364 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.156 seconds (process running for 2.816)
+2023-11-16T03:42:17.186+03:00  INFO 9364 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:42:17.187+03:00  INFO 9364 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:42:17.187+03:00  INFO 9364 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T03:42:27.131+03:00  INFO 8028 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 8028 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:42:27.132+03:00  INFO 8028 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:42:28.937+03:00  INFO 8028 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:42:28.937+03:00  INFO 8028 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:42:28.938+03:00  INFO 8028 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:42:28.978+03:00  INFO 8028 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.137 seconds (process running for 2.823)
+2023-11-16T03:42:29.037+03:00  INFO 8028 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:42:29.037+03:00  INFO 8028 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:42:29.038+03:00  INFO 8028 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:43:10.892+03:00  INFO 20800 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 20800 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:43:10.894+03:00  INFO 20800 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:43:12.678+03:00  INFO 20800 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:43:12.678+03:00  INFO 20800 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:43:12.680+03:00  INFO 20800 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:43:12.722+03:00  INFO 20800 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.129 seconds (process running for 2.818)
+2023-11-16T03:43:12.774+03:00  INFO 20800 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:43:12.774+03:00  INFO 20800 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:43:12.775+03:00  INFO 20800 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:43:30.662+03:00  INFO 5660 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 5660 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:43:30.663+03:00  INFO 5660 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:43:32.450+03:00  INFO 5660 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:43:32.450+03:00  INFO 5660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:43:32.452+03:00  INFO 5660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T03:43:32.497+03:00  INFO 5660 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.126 seconds (process running for 2.791)
+2023-11-16T03:43:32.556+03:00  INFO 5660 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T03:43:32.556+03:00  INFO 5660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T03:43:32.557+03:00  INFO 5660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T03:53:50.358+03:00  INFO 20732 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 20732 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T03:53:50.359+03:00  INFO 20732 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T03:53:51.375+03:00  INFO 20732 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.263 seconds (process running for 1.943)
+2023-11-16T03:53:52.051+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T03:53:52.052+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T03:53:52.053+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2,  =1, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T03:53:52.099+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T03:53:52.099+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T03:53:52.099+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=2,  =1, r=1, D=1, e=1, w=1, H=1, L=1, o=1, O=1}
+2023-11-16T03:53:52.101+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T03:53:52.102+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T03:53:52.102+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T03:53:52.102+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=2, r=1, D=1, e=1, w=1, H=1, L=1, o=1, O=1}
+2023-11-16T03:53:52.110+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T03:53:52.110+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T03:53:52.112+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T03:53:52.113+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T03:53:52.113+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T03:53:52.113+03:00  INFO 20732 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T04:00:57.948+03:00  INFO 15664 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 15664 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:00:57.950+03:00  INFO 15664 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:00:59.727+03:00  INFO 15664 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:00:59.727+03:00  INFO 15664 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:00:59.729+03:00  INFO 15664 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:00:59.767+03:00  INFO 15664 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.11 seconds (process running for 2.76)
+2023-11-16T04:00:59.846+03:00  INFO 15664 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:00:59.847+03:00  INFO 15664 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:00:59.847+03:00  INFO 15664 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T04:01:21.751+03:00  INFO 9276 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9276 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:01:21.752+03:00  INFO 9276 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:01:23.570+03:00  INFO 9276 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:01:23.571+03:00  INFO 9276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:01:23.572+03:00  INFO 9276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:01:23.613+03:00  INFO 9276 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.16 seconds (process running for 2.815)
+2023-11-16T04:01:23.672+03:00  INFO 9276 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:01:23.672+03:00  INFO 9276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:01:23.673+03:00  INFO 9276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:03:09.379+03:00  INFO 18004 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 18004 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:03:09.380+03:00  INFO 18004 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:03:11.167+03:00  INFO 18004 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:03:11.167+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:03:11.169+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:03:11.207+03:00  INFO 18004 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.12 seconds (process running for 2.828)
+2023-11-16T04:03:11.277+03:00  INFO 18004 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:03:11.278+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:03:11.279+03:00  INFO 18004 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:03:40.832+03:00  INFO 7660 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7660 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:03:40.833+03:00  INFO 7660 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:03:42.597+03:00  INFO 7660 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:03:42.597+03:00  INFO 7660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:03:42.598+03:00  INFO 7660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:03:42.636+03:00  INFO 7660 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.104 seconds (process running for 2.777)
+2023-11-16T04:03:42.699+03:00  INFO 7660 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:03:42.699+03:00  INFO 7660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:03:42.699+03:00  INFO 7660 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T04:04:04.714+03:00  INFO 12372 --- [main] o.b.t1consalting.ApplicationRunner       : Starting ApplicationRunner using Java 17.0.8.1 with PID 12372 (E:\IT\Java_Education_Projects\t1consalting\t1consalting\target\classes started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:04:04.715+03:00  INFO 12372 --- [main] o.b.t1consalting.ApplicationRunner       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:04:05.532+03:00  INFO 12372 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-16T04:04:05.541+03:00  INFO 12372 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-16T04:04:05.541+03:00  INFO 12372 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-16T04:04:05.635+03:00  INFO 12372 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-16T04:04:05.635+03:00  INFO 12372 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 888 ms
+2023-11-16T04:04:06.081+03:00  INFO 12372 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-16T04:04:06.091+03:00  INFO 12372 --- [main] o.b.t1consalting.ApplicationRunner       : Started ApplicationRunner in 1.718 seconds (process running for 1.999)
+2023-11-16T04:04:08.784+03:00  INFO 12372 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16T04:04:08.785+03:00  INFO 12372 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-16T04:04:08.786+03:00  INFO 12372 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-11-16T04:04:08.891+03:00  INFO 12372 --- [http-nio-8080-exec-1] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T04:04:08.892+03:00  INFO 12372 --- [http-nio-8080-exec-1] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T04:04:08.893+03:00 ERROR 12372 --- [http-nio-8080-exec-1] o.b.t.e.CharCounterExceptionHandler      : After removing spaces there is nothing to count
+2023-11-16T04:04:16.786+03:00  INFO 12372 --- [http-nio-8080-exec-4] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T04:04:16.786+03:00  INFO 12372 --- [http-nio-8080-exec-4] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T04:04:16.787+03:00  INFO 12372 --- [http-nio-8080-exec-4] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T04:04:16.787+03:00  INFO 12372 --- [http-nio-8080-exec-4] o.b.t.service.CharCounterServiceImpl     : {a=2, j=2, ;=2, l=2, s=1, d=1, f=1, k=1}
+2023-11-16T04:04:29.642+03:00  INFO 20284 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 20284 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:04:29.643+03:00  INFO 20284 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:04:31.440+03:00  INFO 20284 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:04:31.441+03:00  INFO 20284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:04:31.442+03:00  INFO 20284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:04:31.486+03:00  INFO 20284 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.133 seconds (process running for 2.778)
+2023-11-16T04:04:31.546+03:00  INFO 20284 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:04:31.546+03:00  INFO 20284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:04:31.546+03:00  INFO 20284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T04:05:30.089+03:00  INFO 2308 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 2308 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:05:30.090+03:00  INFO 2308 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:05:31.870+03:00  INFO 2308 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:05:31.871+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:05:31.873+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T04:05:31.914+03:00  INFO 2308 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.129 seconds (process running for 2.806)
+2023-11-16T04:05:31.969+03:00  INFO 2308 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:05:31.969+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:05:31.970+03:00  INFO 2308 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:08:07.475+03:00  INFO 11864 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 11864 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:08:07.476+03:00  INFO 11864 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:08:09.259+03:00  INFO 11864 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:08:09.260+03:00  INFO 11864 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:08:09.262+03:00  INFO 11864 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T04:08:09.302+03:00  INFO 11864 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.118 seconds (process running for 2.763)
+2023-11-16T04:08:09.359+03:00  INFO 11864 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:08:09.359+03:00  INFO 11864 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:08:09.359+03:00  INFO 11864 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T04:08:19.474+03:00  INFO 7112 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7112 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T04:08:19.475+03:00  INFO 7112 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T04:08:21.209+03:00  INFO 7112 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:08:21.210+03:00  INFO 7112 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:08:21.212+03:00  INFO 7112 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T04:08:21.246+03:00  INFO 7112 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.062 seconds (process running for 2.721)
+2023-11-16T04:08:21.305+03:00  INFO 7112 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T04:08:21.306+03:00  INFO 7112 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T04:08:21.306+03:00  INFO 7112 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T13:24:22.516+03:00  INFO 19712 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 19712 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:24:22.517+03:00  INFO 19712 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:24:24.299+03:00  INFO 19712 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:24:24.299+03:00  INFO 19712 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:24:24.301+03:00  INFO 19712 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T13:24:24.339+03:00  INFO 19712 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.13 seconds (process running for 2.816)
+2023-11-16T13:24:24.397+03:00  INFO 19712 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:24:24.398+03:00  INFO 19712 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:24:24.398+03:00  INFO 19712 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T13:24:39.544+03:00  INFO 8544 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 8544 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:24:39.545+03:00  INFO 8544 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:24:41.303+03:00  INFO 8544 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:24:41.303+03:00  INFO 8544 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:24:41.305+03:00  INFO 8544 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T13:24:41.352+03:00  INFO 8544 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.143 seconds (process running for 2.813)
+2023-11-16T13:24:41.411+03:00  INFO 8544 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:24:41.411+03:00  INFO 8544 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:24:41.411+03:00  INFO 8544 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T13:28:49.374+03:00  INFO 7760 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 7760 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:28:49.375+03:00  INFO 7760 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:28:51.143+03:00  INFO 7760 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:28:51.143+03:00  INFO 7760 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:28:51.145+03:00  INFO 7760 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:28:51.191+03:00  INFO 7760 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.136 seconds (process running for 2.819)
+2023-11-16T13:28:51.249+03:00  INFO 7760 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:28:51.249+03:00  INFO 7760 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:28:51.250+03:00  INFO 7760 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:29:23.396+03:00  INFO 11612 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 11612 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:29:23.397+03:00  INFO 11612 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:29:25.164+03:00  INFO 11612 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:29:25.164+03:00  INFO 11612 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:29:25.166+03:00  INFO 11612 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T13:29:25.198+03:00  INFO 11612 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.103 seconds (process running for 2.763)
+2023-11-16T13:29:25.259+03:00  INFO 11612 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:29:25.260+03:00  INFO 11612 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:29:25.261+03:00  INFO 11612 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:29:54.042+03:00  INFO 21088 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 21088 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:29:54.043+03:00  INFO 21088 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:29:55.795+03:00  INFO 21088 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:29:55.796+03:00  INFO 21088 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:29:55.797+03:00  INFO 21088 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:29:55.842+03:00  INFO 21088 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.104 seconds (process running for 2.805)
+2023-11-16T13:29:55.900+03:00  INFO 21088 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:29:55.900+03:00  INFO 21088 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:29:55.900+03:00  INFO 21088 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T13:45:34.499+03:00  INFO 19480 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 19480 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:45:34.500+03:00  INFO 19480 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:45:36.322+03:00  INFO 19480 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:45:36.322+03:00  INFO 19480 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:45:36.323+03:00  INFO 19480 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:45:36.368+03:00  INFO 19480 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.172 seconds (process running for 2.841)
+2023-11-16T13:45:36.427+03:00  INFO 19480 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:45:36.427+03:00  INFO 19480 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:45:36.428+03:00  INFO 19480 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:50:53.999+03:00  INFO 13276 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 13276 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:50:54.000+03:00  INFO 13276 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:50:56.199+03:00  INFO 13276 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:50:56.200+03:00  INFO 13276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:50:56.201+03:00  INFO 13276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:50:56.340+03:00  INFO 13276 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.57 seconds (process running for 3.457)
+2023-11-16T13:50:56.507+03:00  INFO 13276 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:50:56.508+03:00  INFO 13276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:50:56.510+03:00  INFO 13276 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:51:07.048+03:00  INFO 12964 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 12964 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:51:07.049+03:00  INFO 12964 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:51:08.816+03:00  INFO 12964 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:51:08.816+03:00  INFO 12964 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:51:08.817+03:00  INFO 12964 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:51:08.857+03:00  INFO 12964 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.104 seconds (process running for 2.756)
+2023-11-16T13:51:08.928+03:00  INFO 12964 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:51:08.929+03:00  INFO 12964 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:51:08.930+03:00  INFO 12964 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:51:17.531+03:00  INFO 9788 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 9788 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:51:17.532+03:00  INFO 9788 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:51:19.268+03:00  INFO 9788 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:51:19.269+03:00  INFO 9788 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:51:19.270+03:00  INFO 9788 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:51:19.314+03:00  INFO 9788 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.083 seconds (process running for 2.736)
+2023-11-16T13:51:19.369+03:00  INFO 9788 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:51:19.369+03:00  INFO 9788 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:51:19.370+03:00  INFO 9788 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:51:50.156+03:00  INFO 3880 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 3880 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:51:50.158+03:00  INFO 3880 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:51:51.922+03:00  INFO 3880 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:51:51.922+03:00  INFO 3880 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:51:51.924+03:00  INFO 3880 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T13:51:51.964+03:00  INFO 3880 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.108 seconds (process running for 2.77)
+2023-11-16T13:51:52.023+03:00  INFO 3880 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:51:52.024+03:00  INFO 3880 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:51:52.024+03:00  INFO 3880 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T13:54:38.249+03:00  INFO 10868 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 10868 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:54:38.250+03:00  INFO 10868 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:54:40.079+03:00  INFO 10868 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:54:40.079+03:00  INFO 10868 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:54:40.081+03:00  INFO 10868 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:54:40.121+03:00  INFO 10868 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.171 seconds (process running for 2.834)
+2023-11-16T13:54:40.180+03:00  INFO 10868 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:54:40.180+03:00  INFO 10868 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:54:40.181+03:00  INFO 10868 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:58:05.414+03:00  INFO 1156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 1156 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:58:05.415+03:00  INFO 1156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:58:07.175+03:00  INFO 1156 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:58:07.175+03:00  INFO 1156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:58:07.177+03:00  INFO 1156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T13:58:07.214+03:00  INFO 1156 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.109 seconds (process running for 2.78)
+2023-11-16T13:58:07.280+03:00  INFO 1156 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:58:07.280+03:00  INFO 1156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:58:07.281+03:00  INFO 1156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:59:24.837+03:00  INFO 1372 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 1372 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T13:59:24.838+03:00  INFO 1372 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T13:59:26.633+03:00  INFO 1372 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:59:26.633+03:00  INFO 1372 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:59:26.634+03:00  INFO 1372 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T13:59:26.682+03:00  INFO 1372 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.142 seconds (process running for 2.802)
+2023-11-16T13:59:26.740+03:00  INFO 1372 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T13:59:26.740+03:00  INFO 1372 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T13:59:26.741+03:00  INFO 1372 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T14:00:01.742+03:00  INFO 21336 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 21336 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:00:01.743+03:00  INFO 21336 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:00:03.572+03:00  INFO 21336 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T14:00:03.572+03:00  INFO 21336 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T14:00:03.573+03:00  INFO 21336 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T14:00:03.609+03:00  INFO 21336 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.168 seconds (process running for 2.839)
+2023-11-16T14:00:03.672+03:00  INFO 21336 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T14:00:03.673+03:00  INFO 21336 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T14:00:03.674+03:00  INFO 21336 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T14:00:18.719+03:00  INFO 20576 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Starting CharCounterRestTest using Java 17.0.8.1 with PID 20576 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:00:18.720+03:00  INFO 20576 --- [main] o.b.t.unit.rest.CharCounterRestTest      : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:00:20.536+03:00  INFO 20576 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-16T14:00:20.536+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T14:00:20.538+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-11-16T14:00:20.575+03:00  INFO 20576 --- [main] o.b.t.unit.rest.CharCounterRestTest      : Started CharCounterRestTest in 2.153 seconds (process running for 2.815)
+2023-11-16T14:00:20.649+03:00  INFO 20576 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T14:00:20.649+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T14:00:20.650+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-16T14:00:20.902+03:00  INFO 20576 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T14:00:20.902+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T14:00:20.902+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T14:00:20.921+03:00  INFO 20576 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T14:00:20.921+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T14:00:20.921+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T14:00:20.939+03:00  INFO 20576 --- [main] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2023-11-16T14:00:20.939+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-16T14:00:20.939+03:00  INFO 20576 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-11-16T14:04:01.548+03:00  INFO 20972 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 20972 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:04:01.549+03:00  INFO 20972 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:04:02.621+03:00  INFO 20972 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.332 seconds (process running for 2.002)
+2023-11-16T14:04:03.341+03:00  INFO 20972 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:04:03.341+03:00  INFO 20972 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:04:03.342+03:00  INFO 20972 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2,  =1, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T14:09:46.797+03:00  INFO 11996 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 11996 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:09:46.798+03:00  INFO 11996 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:09:47.836+03:00  INFO 11996 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.297 seconds (process running for 1.988)
+2023-11-16T14:10:23.314+03:00  INFO 2832 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 2832 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:10:23.316+03:00  INFO 2832 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:10:24.372+03:00  INFO 2832 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.312 seconds (process running for 1.992)
+2023-11-16T14:10:25.092+03:00  INFO 2832 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:10:25.093+03:00  INFO 2832 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T14:10:25.093+03:00  INFO 2832 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:10:25.094+03:00  INFO 2832 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T14:13:12.793+03:00  INFO 20248 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 20248 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:13:12.794+03:00  INFO 20248 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:13:13.920+03:00  INFO 20248 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.383 seconds (process running for 2.05)
+2023-11-16T14:13:14.582+03:00  INFO 20248 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:13:14.582+03:00  INFO 20248 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:13:14.583+03:00  INFO 20248 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2,  =1, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T14:15:11.267+03:00  INFO 18252 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 18252 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:15:11.268+03:00  INFO 18252 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:15:12.360+03:00  INFO 18252 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.359 seconds (process running for 2.03)
+2023-11-16T14:15:13.096+03:00  INFO 18252 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:15:13.096+03:00  INFO 18252 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:15:13.097+03:00  INFO 18252 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2,  =1, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T14:18:13.759+03:00  INFO 16740 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 16740 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:18:13.761+03:00  INFO 16740 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:18:14.850+03:00  INFO 16740 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.351 seconds (process running for 2.044)
+2023-11-16T14:18:15.539+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:18:15.539+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:18:15.540+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2,  =1, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T14:18:15.557+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T14:18:15.558+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:18:15.558+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=2,  =1, r=1, D=1, e=1, w=1, H=1, L=1, o=1, O=1}
+2023-11-16T14:18:15.575+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:18:15.575+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T14:18:15.578+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:18:15.578+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T14:18:15.578+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:18:15.578+03:00  INFO 16740 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T14:18:40.604+03:00  INFO 1652 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Starting CharCounterServiceImplIT using Java 17.0.8.1 with PID 1652 (started by Acid Kiss Records in E:\IT\Java_Education_Projects\t1consalting\t1consalting)
+2023-11-16T14:18:40.605+03:00  INFO 1652 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : No active profile set, falling back to 1 default profile: "default"
+2023-11-16T14:18:41.736+03:00  INFO 1652 --- [main] o.b.t.i.s.CharCounterServiceImplIT       : Started CharCounterServiceImplIT in 1.384 seconds (process running for 2.058)
+2023-11-16T14:18:42.438+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:18:42.438+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:18:42.439+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2,  =1, r=1, d=1, e=1, w=1, h=1}
+2023-11-16T14:18:42.454+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T14:18:42.454+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:18:42.455+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=2,  =1, r=1, D=1, e=1, w=1, H=1, L=1, o=1, O=1}
+2023-11-16T14:18:42.457+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-sensitive
+2023-11-16T14:18:42.458+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T14:18:42.458+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:18:42.458+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=2, r=1, D=1, e=1, w=1, H=1, L=1, o=1, O=1}
+2023-11-16T14:18:42.466+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:18:42.466+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T14:18:42.468+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Case sensitivity: Case-insensitive
+2023-11-16T14:18:42.469+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Optional: Trim all white spaces
+2023-11-16T14:18:42.469+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : Characters were counted
+2023-11-16T14:18:42.469+03:00  INFO 1652 --- [main] o.b.t.service.CharCounterServiceImpl     : {l=3, o=2, r=1, d=1, e=1, w=1, h=1}
