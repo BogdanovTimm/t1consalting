@@ -7,7 +7,7 @@
     - **Trim all white spaces** or not (by default)
 - Both **Unit** and **Integration tests** that covers all possible scenarios
 - Custom `ExceptionHandler` for returning information about client's errors
-- **Offline API documentation** .pdf format
+- **Offline API documentation** .pdf format with working URLs and `curl` code
 - `Swagger` is used for **online documentation**
 - Extended and clear **javadoc documentation for every method**
 - Custom `ApiException` for dealing with **domain-based exceptions**
