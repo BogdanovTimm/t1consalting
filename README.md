@@ -12,5 +12,12 @@
 - Custom `ApiException` for dealing with **domain-based exceptions**
 - **Saves logs** in `charcounter.log` and **creates archives** of them
 - `Spring Validaton` is used to strict client's Http-Requests
+- **Docker**-image created
+- **Docker**-compose created
 - `lombock` is used to make code more clear
 - Cool T1 Consalting logo included B-)
+
+# Docker-image
+
+You can pull docker-image with:
+`docker pull bogdanovtimm/charcounter`
